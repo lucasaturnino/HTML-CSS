@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+       body {
+            background-image: linear-gradient(to bottom, #7AA3D6, #7E8EA3, #5D6670, #27313D, #0F1F33);
+            color: rgb(255, 255, 255);
+            font-size: 20px;
+            font-family: Arial, Helvetica, sans-serif;
+            background-attachment: fixed;    
+        }
+
+        p {
+            text-align: justify;
+        }
